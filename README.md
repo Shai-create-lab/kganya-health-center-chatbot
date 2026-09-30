@@ -1,0 +1,1 @@
+MindCare is a conversational mental-health support chatbot. It gives evidence-informed self-care information, helps users work out what level of professional support they need, and connects them quickly to qualified people when a situation looks concerning. It does not diagnose, prescribe or replace healthcare professionals.
